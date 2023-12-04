@@ -1,4 +1,6 @@
 package oop;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Worker extends Infomation {
     public int seniority ;
@@ -15,6 +17,7 @@ public class Worker extends Infomation {
         System.out.println("Name is  :" + name);
         System.out.println("Address is  :" + address);
         System.out.println("Seniority year is  :" + seniority);
-    }
+    } ;
+
 
 }
